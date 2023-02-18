@@ -1,1 +1,1 @@
-# DataAnalysis Repository for ICS 235
+## Archive for CS courses at Manipal in Fall 2022
