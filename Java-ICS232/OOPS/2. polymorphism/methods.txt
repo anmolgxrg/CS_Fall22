@@ -1,0 +1,4 @@
+Methods: dev-defined operations or functions that can be later used
+
+multiple methods of same name in a same class - polymorphism
+
